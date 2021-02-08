@@ -1,0 +1,1 @@
+export const ADD_SEARCH_HISTORY = "ADD_SEARCH_HISTORY";
